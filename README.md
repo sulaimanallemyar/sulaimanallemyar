@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://komarev.com/ghpvc/?username=sulaimanallemyar&style=flat-square&color=blue" alt=""/>
 </div>
-👋 My name is Sulaiman Allemyar. I'm a Senior Java Backend Developer who loves learning new technologies and frameworks.
+👋 My name is Sulaiman Allemyar. I'm a Senior Java Developer who loves learning new technologies and frameworks.
 <br>
 🧩 My favorite hobbies are programming 🤡 and solving problems.
 <br>
