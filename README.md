@@ -1,6 +1,6 @@
-
-<img src="https://komarev.com/ghpvc/?username=sulaimanallemyar&style=flat-square&color=blue" alt=""/>
-
+<div id="header" align="center">
+    <img src="https://komarev.com/ghpvc/?username=sulaimanallemyar&style=flat-square&color=blue" alt=""/>
+</div>
 👋 My name is Sulaiman Allemyar. I'm a Senior Java Backend Developer who loves learning new technologies and frameworks.
 <br>
 🧩 My favorite hobbies are programming 🤡 and solving problems.
@@ -9,6 +9,8 @@
 <br>
 <h2>Some Tools I Have Used And Learned</h2>
 <p align="left">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="55" height="55"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-boot-wordmark.svg" title="Spring" alt="Spring" width="55" height="55"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="55" height="55" alt="html5-sulaimanallemyar"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="55" height="55" alt="css3-sulaimanallemyar"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55" height="55" alt="bootstrap-sulaimanallemyar"/>
@@ -24,6 +26,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55" height="55" alt="php-sulaimanallemyar"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="55" height="55" alt="laravel-sulaimanallemyar"/>
     <img src="https://user-images.githubusercontent.com/91287064/228954023-d1dfd66a-937b-4c17-b216-fcbb87dcbe20.png" width="55" height="55" alt="alpinejs-sulaimanallemyar"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-line-wordmark.svg" title="Git" **alt="Git" width="55" height="55"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/jenkins-line.svg" title="Git" **alt="Git" width="55" height="55"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="55" height="55"/>
 </p>
 <h2>Stats</h2>
 <p>
