@@ -24,11 +24,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="55" height="55" alt="wordpress-sulaimanallemyar"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" height="55" alt="linux-sulaimanallemyar"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55" height="55" alt="php-sulaimanallemyar"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="55" height="55" alt="laravel-sulaimanallemyar"/>
     <img src="https://user-images.githubusercontent.com/91287064/228954023-d1dfd66a-937b-4c17-b216-fcbb87dcbe20.png" width="55" height="55" alt="alpinejs-sulaimanallemyar"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" title="Git" **alt="Git" width="55" height="55"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Git" **alt="Git" width="55" height="55"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="55" height="55"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/minio-1.svg" title="minio" **alt="minio" width="55" height="55"/>
 </p>
 <h2>Stats</h2>
 <p>
