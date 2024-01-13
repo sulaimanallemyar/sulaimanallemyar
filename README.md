@@ -10,7 +10,7 @@
 <h2>Some Tools I Have Used And Learned</h2>
 <p align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="55" height="55"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="55" height="55"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="55" height="65"/>
     <img src="https://www.svgrepo.com/show/353934/jhipster.svg" title="Jhipster" alt="Spring" width="55" height="55"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="55" height="55" alt="html5-sulaimanallemyar"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="55" height="55" alt="css3-sulaimanallemyar"/>
