@@ -20,9 +20,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="mysql-sulaimanallemyar"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55" alt="mongodb-sulaimanallemyar"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="javascript-sulaimanallemyar"/>
-    <img src="https://user-images.githubusercontent.com/91287064/228953632-c5d62e0b-1cd3-4a4d-bdfd-b7633f7662a0.png" width="55" height="55" alt="typescript-sulaimanallemyar"/>
+    <!-- <img src="https://user-images.githubusercontent.com/91287064/228953632-c5d62e0b-1cd3-4a4d-bdfd-b7633f7662a0.png" width="55" height="55" alt="typescript-sulaimanallemyar"/> -->
     <img src="https://user-images.githubusercontent.com/91287064/230383832-7f9d2484-4cbc-4015-96d7-06439e7de6fd.png" width="55" height="55" alt="jquery-sulaimanallemyar"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="55" height="55" alt="wordpress-sulaimanallemyar"/>
+     <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="55" height="55" alt="wordpress-sulaimanallemyar"/> -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" height="55" alt="linux-sulaimanallemyar"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55" height="55" alt="php-sulaimanallemyar"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" title="Git" **alt="Git" width="55" height="55"/>
@@ -40,7 +40,6 @@
 
 <h2>How To Reach Me</h2>
 <p>
-
 <p>
     <a href="https://github.com/sulaimanallemyar">
         <img src="https://user-images.githubusercontent.com/91287064/208878669-0146cc1a-b0a6-4a6e-9f4b-082c37264309.png" alt="github-sulaimanallemyar" width="50" height="50">
@@ -52,5 +51,4 @@
         <img src="https://user-images.githubusercontent.com/91287064/208878678-26652569-8d38-45c9-aa13-28a33a7fc967.png" alt="gmail-sulaimanallemyar" width="50" height="50">
     </a>
 </p>
-
 </p>
