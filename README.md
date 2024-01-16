@@ -1,4 +1,4 @@
-![github-sulaimanallemyar-readme](https://github.com/sulaimanallemyar/sulaimanallemyar/assets/101123802/9a60af5f-ac40-4413-bc9f-da7f69eaefcd)
+![Github Cover Photo 2](https://github.com/sulaimanallemyar/sulaimanallemyar/assets/101123802/15c1576f-652e-429a-98c6-556ded677072)
 <div id="header" align="center">
     <img src="https://komarev.com/ghpvc/?username=sulaimanallemyar&style=flat-square&color=blue" alt=""/>
 </div>
