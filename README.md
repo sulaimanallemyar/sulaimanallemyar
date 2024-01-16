@@ -1,4 +1,5 @@
-![Github Cover Photo 2](https://github.com/sulaimanallemyar/sulaimanallemyar/assets/101123802/15c1576f-652e-429a-98c6-556ded677072)
+![WhatsApp Image 2024-01-16 at 8 52 28 PM](https://github.com/sulaimanallemyar/sulaimanallemyar/assets/101123802/8842e7f6-82b8-4162-b337-c4e973e458ac)
+
 <div id="header" align="center">
     <img src="https://komarev.com/ghpvc/?username=sulaimanallemyar&style=flat-square&color=blue" alt=""/>
 </div>
